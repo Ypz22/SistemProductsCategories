@@ -33,7 +33,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 3. Levanta los servicios con el siguiente comando:
 
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
    Este comando construirá las imágenes necesarias y levantará todos los contenedores definidos en el archivo `docker-compose.yaml`.
